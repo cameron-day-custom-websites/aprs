@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Cameron Day> -- <Designer> -- <@DWConan>
+
+# THANKS
+
+    <Keller Barnette>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Firebase Configs, Normalize.css
