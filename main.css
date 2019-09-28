@@ -575,3 +575,49 @@
     color: white;
     text-decoration: none;
   }
+  .review-btn {
+    background: #ea4335;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px 20px;
+    height: auto;
+    text-decoration: none;
+    border-radius: 4px;
+    border: none;
+    opacity: 1;
+  }
+  #stickyReview {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 6vh;
+    background-color: #222;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    opacity: 1;
+  }
+  blockquote {
+    font-style: italic;
+    font-size: 16px;
+  }
+  @media (orientation: portrait) {
+    #testimoniesDesktop {
+      display: none;
+    }
+    #testimoniesMobile {
+      word-wrap: break-word;
+    }
+    #hours {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    #contact {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  }
+  @media (orientation: landscape) {
+    #testimoniesMobile {
+      display: none;
+    }
+  }
